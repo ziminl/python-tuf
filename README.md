@@ -1,4 +1,4 @@
-pip install tuf
+>pip install tuf
 
 https://github.com/theupdateframework/python-tuf
 
